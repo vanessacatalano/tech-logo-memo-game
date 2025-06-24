@@ -4,3 +4,4 @@ dist/
 build/
 .venv/
 *.tmp
+.pytest_cache/
