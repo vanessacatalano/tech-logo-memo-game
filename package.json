@@ -1,6 +1,6 @@
 {
   "name": "tech-logo-memo-game",
-  "version": "0.1.26",
+  "version": "0.1.27",
   "description": "\ud83d\uddb1\ufe0f\ud83d\uddb1\ufe0f\ud83d\udd95\ud83d\udd95\ud83e\udd2f\ud83e\udd2f\ud83e\udd2ftechnology logo memory game, including frontend and backend",
   "main": "src/index.js",
   "scripts": {
